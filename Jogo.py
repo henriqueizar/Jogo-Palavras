@@ -1,6 +1,6 @@
 import random
 import time
-lista_palavras = ["porta","travisseiro",
+lista_palavras = ["porta","travesseiro",
             "girafa","crocodilo",
             "computador","carteira",
             "abacaxi","azulejo","peneira"]
